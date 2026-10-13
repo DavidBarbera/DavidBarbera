@@ -12,7 +12,9 @@ I build speech recognition systems for people whose speech doesn't fit the patte
 
 ### Background
 
-I have an unusual path: **Mathematics & Economics** (LSE) → **Computer Games** (Goldsmiths) → **Cognitive Neuroscience** (UCL). At UCL I built **NUVA** — a CE-marked Class II medical device for speech recovery in aphasia using on-device speech recognition. Published at INTERSPEECH, Computer Speech & Language, eClinical Medicine.
+I have an unusual path: **Mathematics & Economics** (LSE) → **Computer Games** (Goldsmiths) → **Cognitive Neuroscience** (UCL). At UCL I built **NUVA** — a CE-marked Class II medical device for speech recovery in aphasia using on-device speech recognition. 
+
+Published at INTERSPEECH, Computer Speech & Language, eClinical Medicine.
 
 ### Skills
 
